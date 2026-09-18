@@ -1,0 +1,10 @@
+{
+  "name": "los-templarios",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Los Templarios - repaso bíblico con administración protegida por servidor",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^5.1.0" }
+}

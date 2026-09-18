@@ -1,0 +1,1052 @@
+[
+  {
+    "n": 1,
+    "question": "",
+    "answer": "¿Cuántos tiempo tomó Salomón para construir el templo",
+    "reference": ""
+  },
+  {
+    "n": 2,
+    "question": "¿Cuáles son los nombres de las esposas de Elcana?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 3,
+    "question": "¿Cuántos hermanos tenía David?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 4,
+    "question": "¿Cuántos hijos tenía Isaí, padre de David?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 5,
+    "question": "",
+    "answer": "¿Cuántos años tenía Joás cuando comenzó a reinar en",
+    "reference": ""
+  },
+  {
+    "n": 6,
+    "question": "¿Durante cuántos años reinó Joás en Jerusalén?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 7,
+    "question": "¿Cuántos años tenía Josías cuanto comenzó a reinar?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 8,
+    "question": "¿A quién le sacaron los ojos y lo llevaron cautivo a Babilonia?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 9,
+    "question": "¿Cuántas veces se sumergió Naamán en el Jordán?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 10,
+    "question": "¿Qué edad tenía David cuando comenzó a reinar en Jerusalén?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 11,
+    "question": "¿Durante cuántos años reinó David?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 12,
+    "question": "¿Cómo se llamaba la mamá de Timoteo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 13,
+    "question": "¿Cómo se llamaba la abuela de Timoteo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 14,
+    "question": "¿Qué otro nombre tenía Daniel?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 15,
+    "question": "¿Cuál río es conocido como \"El Gran Río ó Río Grande\"?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 16,
+    "question": "¿Qué ciudad es conocida como la ciudad de Las Palmas?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 17,
+    "question": "¿Cuál es el nombre de la reina a quien Ester reemplazó?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 18,
+    "question": "¿Cuál es el nombre de la esposa de Amán?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 19,
+    "question": "",
+    "answer": "¿Cuánto tiempo comieron los israelitas maná en el",
+    "reference": ""
+  },
+  {
+    "n": 20,
+    "question": "¿Quién fue el suegro de Moisés?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 21,
+    "question": "¿Por cuánto tiempo fue escondido Moisés cuando nació?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 22,
+    "question": "¿Cómo se llamaba la esposa de Moisés?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 23,
+    "question": "",
+    "answer": "¿Cuáles eran las palabras grabadas en la lámina de Oro",
+    "reference": ""
+  },
+  {
+    "n": 24,
+    "question": "¿Quién hizo un becerro de oro?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 25,
+    "question": "¿Quién destruyo el becerro de oro que hizo Aarón?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 26,
+    "question": "¿Cómo se llamaba el rey de Sodoma?",
+    "answer": "Bera",
+    "reference": "Génesis 14:2"
+  },
+  {
+    "n": 27,
+    "question": "¿Cómo se llamaba el rey de Gomorra?",
+    "answer": "Birsa",
+    "reference": "Génesis 14:2"
+  },
+  {
+    "n": 28,
+    "question": "¿Cuántos años tenía Abram cuando nació Ismael?",
+    "answer": "86 años",
+    "reference": "Génesis 16:16"
+  },
+  {
+    "n": 29,
+    "question": "¿Cuántos años tenía Sara cuando nació Isaac?",
+    "answer": "90 años",
+    "reference": "Génesis 17:17"
+  },
+  {
+    "n": 30,
+    "question": "¿Cuántos años tenía Abraham cuando nació Isaac?",
+    "answer": "100 años",
+    "reference": "Génesis 21:5"
+  },
+  {
+    "n": 31,
+    "question": "¿Cómo se llamaba la segunda esposa que tuvo Abraham?",
+    "answer": "Cetura",
+    "reference": "Génesis 25:1"
+  },
+  {
+    "n": 32,
+    "question": "¿Cuántos años tenía Isaac cuando se casó con Rebeca?",
+    "answer": "40 años",
+    "reference": "Génesis 25:20"
+  },
+  {
+    "n": 33,
+    "question": "¿Cuál fue el nombre de la mamá de Jacob y Esaú?",
+    "answer": "Rebeca",
+    "reference": "Génesis 25:21-26"
+  },
+  {
+    "n": 34,
+    "question": "¿Cuáles dos hermanas se casaron con el mismo hombre?",
+    "answer": "Raquel y Lea",
+    "reference": "Génesis 29"
+  },
+  {
+    "n": 35,
+    "question": "¿Quién es la madre de todos los vivientes?",
+    "answer": "Eva",
+    "reference": "Génesis 3:20"
+  },
+  {
+    "n": 36,
+    "question": "¿Cuántos años tenía José cuando fue vendido pos sus hermanos?",
+    "answer": "17 años",
+    "reference": "Génesis 37:2, 28"
+  },
+  {
+    "n": 37,
+    "question": "¿Cómo se llamaban los hijos de José?",
+    "answer": "Efraín y Manasés",
+    "reference": "Génesis 41:50-52"
+  },
+  {
+    "n": 38,
+    "question": "¿Cuántos años tenía Enoc cuando le llevó Dios?",
+    "answer": "Tenía 365 años",
+    "reference": "Génesis 5:23-24"
+  },
+  {
+    "n": 39,
+    "question": "¿Cuántos años vivió Adam?",
+    "answer": "930 años",
+    "reference": "Génesis 5:5"
+  },
+  {
+    "n": 40,
+    "question": "¿Cómo se llamaban los hijos de Noé?",
+    "answer": "Sem, Cam y Jafet",
+    "reference": "Génesis 6:9-10"
+  },
+  {
+    "n": 41,
+    "question": "¿Cuántos años tenía Noé cuando comenzó el diluvio?",
+    "answer": "600 años",
+    "reference": "Génesis 7:6"
+  },
+  {
+    "n": 42,
+    "question": "¿En qué lugar reposó el arca después del diluvio?",
+    "answer": "Montes de Ararat",
+    "reference": "Génesis 8:4"
+  },
+  {
+    "n": 43,
+    "question": "¿Cuántos años vivió Noé?",
+    "answer": "950 años",
+    "reference": "Génesis 9.28-29"
+  },
+  {
+    "n": 44,
+    "question": "¿Cuántos años más vivió Noé después del diluvio?",
+    "answer": "350 años",
+    "reference": "Génesis 9:28"
+  },
+  {
+    "n": 45,
+    "question": "¿Quién fue sucesor de Judas en su oficio de apóstol?",
+    "answer": "Matías",
+    "reference": "Hechos 1:24-26"
+  },
+  {
+    "n": 46,
+    "question": "¿Por qué causa murieron Ananías y Safira?",
+    "answer": "Por mentir",
+    "reference": "Hechos 5:1-10"
+  },
+  {
+    "n": 47,
+    "question": "¿Qué enfermedad tenía Eneas?",
+    "answer": "Era paralítico",
+    "reference": "Hechos 9:32-33"
+  },
+  {
+    "n": 48,
+    "question": "¿Cuál era el otro nombre de Dorcas?",
+    "answer": "Tabita",
+    "reference": "Hechos 9:36-40"
+  },
+  {
+    "n": 49,
+    "question": "¿Cómo se llamaban los tres amigos de Job?",
+    "answer": "Elifaz, Bildad y Zofar",
+    "reference": "Job 2:11"
+  },
+  {
+    "n": 50,
+    "question": "¿Cuántos espías envió Josué a Jericó?",
+    "answer": "2 espías",
+    "reference": "Josué 2:1"
+  },
+  {
+    "n": 51,
+    "question": "¿En cuál ciudad vivía Rahab?",
+    "answer": "Jericó",
+    "reference": "Josué 2:1"
+  },
+  {
+    "n": 52,
+    "question": "¿Qué otro nombre tenía Tomás?",
+    "answer": "Dídimo",
+    "reference": "Juan 11:16"
+  },
+  {
+    "n": 53,
+    "question": "¿Quién pidió el cuerpo de Jesús para sepultarlo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 54,
+    "question": "¿A quién le dijo Jesús, \"No seas incrédulo\"?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 55,
+    "question": "¿Cuál es el nombre de la hija de Caleb?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 56,
+    "question": "¿Cuál era la profetisa que gobernaba debajo de una palmera?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 57,
+    "question": "¿Cómo se llamaba la mamá de Juan el Bautista?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 58,
+    "question": "¿Cómo se llamaba el papá de Juan el Bautista?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 59,
+    "question": "¿En qué lugar fue bautizado Jesús?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 60,
+    "question": "¿Qué enfermedad tenía Bartimeo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 61,
+    "question": "",
+    "answer": "¿Quiénes aparecieron con Jesús en el monte de la",
+    "reference": ""
+  },
+  {
+    "n": 62,
+    "question": "¿Quién bautizó a Jesús?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 63,
+    "question": "¿Cuántos espías envió Moisés a reconocer Canaán?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 64,
+    "question": "¿Cuándo los israelitas salieron de Egipto, quiénes fueron los únicos en entrar a la tierra prometida?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 65,
+    "question": "¿En qué lugar murió Aarón?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 66,
+    "question": "¿Cómo se llamaron los padres de Moisés?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 67,
+    "question": "¿Cómo se llamaban las nueras de Noemí?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 68,
+    "question": "¿Cómo se llamaba el dueño del campo donde Rut comenzó a recoger espigas?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 69,
+    "question": "¿Cómo se llamaba el papá de David?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 70,
+    "question": "¿Cuál de los dos hijos de Noemí se casó con Rut?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 71,
+    "question": "¿Cómo se llamaba el nieto de Obed?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 72,
+    "question": "¿Qué usó Dios para hacer a la mujer?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 73,
+    "question": "¿Cuál es el nombre de la esposa de Aquila?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 74,
+    "question": "¿Cuál es el nombre del papá de Samsom?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 75,
+    "question": "¿Quién fue la bisabuela de David?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 76,
+    "question": "¿Cuántos meses de preparación especial debía tener una doncella antes de presentarse delante del rey en tiempos del rey Asuero?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 77,
+    "question": "",
+    "answer": "¿Cómo se llamaba el guarda de las mujeres en tiempos de",
+    "reference": ""
+  },
+  {
+    "n": 78,
+    "question": "¿De qué nacionalidad era Agar?",
+    "answer": "Egipcia",
+    "reference": "Génesis 16"
+  },
+  {
+    "n": 79,
+    "question": "¿Cómo se llamaba el esposo de Noemí?",
+    "answer": "Elimelec",
+    "reference": "Rut 1:2"
+  },
+  {
+    "n": 80,
+    "question": "¿Cuál es el nombre de la mujer que mató a Sísara capitán de ejército de Jabín?",
+    "answer": "Jael",
+    "reference": "Jueces 4:21"
+  },
+  {
+    "n": 81,
+    "question": "¿Cómo se llamaban los dos hijos de Noemí?",
+    "answer": "Mahlón y Quilión",
+    "reference": "Rut 1:2"
+  },
+  {
+    "n": 82,
+    "question": "¿De qué nacionalidad era Rut?",
+    "answer": "Moabita",
+    "reference": "Rut 1:4"
+  },
+  {
+    "n": 83,
+    "question": "¿De qué nacionalidad era el papá de Timoteo?",
+    "answer": "Griego",
+    "reference": "Hechos 16:1"
+  },
+  {
+    "n": 84,
+    "question": "¿En qué ciudad fue apedreado Pablo?",
+    "answer": "Listra",
+    "reference": "Hechos 14:8-19"
+  },
+  {
+    "n": 85,
+    "question": "¿Quién usó una piedra por almohada?",
+    "answer": "Jacob",
+    "reference": "Génesis 28:18"
+  },
+  {
+    "n": 86,
+    "question": "¿Cuál era el dios de los filisteos?",
+    "answer": "Dagón",
+    "reference": "Jueces 16:23"
+  },
+  {
+    "n": 87,
+    "question": "¿De qué forma murió Elí?",
+    "answer": "Se desnucó",
+    "reference": "1 Samuel 4:18"
+  },
+  {
+    "n": 88,
+    "question": "¿Quién comió algo dulce que se volvió amargo inmediatamente?",
+    "answer": "Juan",
+    "reference": "Apocalipsis 10:10"
+  },
+  {
+    "n": 89,
+    "question": "¿Quién fue muerto por la mujer que le dio a beber leche?",
+    "answer": "Sísara",
+    "reference": "Jueces 4:17-21"
+  },
+  {
+    "n": 90,
+    "question": "¿De qué nacionalidad era Eunice?",
+    "answer": "Judía",
+    "reference": "Hechos 16:1"
+  },
+  {
+    "n": 91,
+    "question": "¿Cómo se llamaba el padre de Samuel?",
+    "answer": "Elcana",
+    "reference": "1 Samuel 1"
+  },
+  {
+    "n": 92,
+    "question": "¿De qué tribu era Pablo?",
+    "answer": "Benjamín",
+    "reference": "Filipenses 3:5"
+  },
+  {
+    "n": 93,
+    "question": "¿Cuál era el otro nombre de Ester?",
+    "answer": "Hadasa",
+    "reference": "Ester 2:7"
+  },
+  {
+    "n": 94,
+    "question": "¿Cuánto tiempo anduvo Isaías desnudo y descalzo?",
+    "answer": "3 años",
+    "reference": "Isaías 20:3"
+  },
+  {
+    "n": 95,
+    "question": "¿Qué padre e hijo fueron circuncidados el mismo día?",
+    "answer": "Abraham e Ismael",
+    "reference": "Génesis 17:26"
+  },
+  {
+    "n": 96,
+    "question": "¿Qué profeta amonestó al rey David por su pecado?",
+    "answer": "Natán",
+    "reference": "2 Samuel 12:1"
+  },
+  {
+    "n": 97,
+    "question": "¿Cómo se llamaba el padre de Lea?",
+    "answer": "Labán",
+    "reference": "Génesis 29:16"
+  },
+  {
+    "n": 98,
+    "question": "¿Cuál fue el nombre de los hijos de Elí?",
+    "answer": "Ofni y Finees",
+    "reference": "1 Samuel 1:3"
+  },
+  {
+    "n": 99,
+    "question": "¿Qué parentesco tenía Lot con Abraham?",
+    "answer": "Era su sobrino",
+    "reference": "Génesis 12:5"
+  },
+  {
+    "n": 100,
+    "question": "¿Cómo se llamaba el papá de Isaías?",
+    "answer": "Amoz",
+    "reference": "Isaías 1:1"
+  },
+  {
+    "n": 101,
+    "question": "¿Cuál era la profesión de Nehemías?",
+    "answer": "Copero del Rey",
+    "reference": "Nehemías 1:11"
+  },
+  {
+    "n": 102,
+    "question": "¿Cómo se llamaba el papá de Abram?",
+    "answer": "Taré",
+    "reference": "Génesis 11:26"
+  },
+  {
+    "n": 103,
+    "question": "",
+    "answer": "¿Cómo se llamaba el hijo de Jonatan que era lisiado de",
+    "reference": ""
+  },
+  {
+    "n": 104,
+    "question": "¿Quién adoptó a Ester?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 105,
+    "question": "¿Cómo era la firma de Pablo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 106,
+    "question": "¿Qué profeta era como cantor de amores?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 107,
+    "question": "¿Cómo se llamaron los hermanos de Jesús?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 108,
+    "question": "¿Quiénes fueron Boses y Sene?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 109,
+    "question": "¿Qué profeta tuvo un hijo de una profetisa?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 110,
+    "question": "¿A qué rey por poco se le convence de ser discípulo de Cristo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 111,
+    "question": "¿Quién fue mensajero de su propia muerte?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 112,
+    "question": "¿Quién recibió sepultura de rey, sin ser rey?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 113,
+    "question": "¿Quién volvió a vivir después de 7 estornudos?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 114,
+    "question": "¿Qué había dentro del Arca del pacto?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 115,
+    "question": "¿Cómo se llamaban los hijos de Sarvia?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 116,
+    "question": "¿Cómo se llamaba el capitán del ejército de Salomón?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 117,
+    "question": "¿Cómo se llamaba el capitán del ejército de Saúl?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 118,
+    "question": "¿Cómo se llamaba el capitán del ejército de David?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 119,
+    "question": "¿Con que otro nombre se le llamó a Salomón?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 120,
+    "question": "¿Quiénes profetizaron a Nínive?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 121,
+    "question": "¿Cuál es el otro nombre de Esaú?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 122,
+    "question": "¿De dónde era Job?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 123,
+    "question": "¿De dónde era Pablo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 124,
+    "question": "¿Cómo se llamaba el papá de Jeremías?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 125,
+    "question": "¿Cómo se llamaba el papá de Nehemías?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 126,
+    "question": "¿Cómo se llamaban los hijos de Samuel?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 127,
+    "question": "¿Cómo se llamaban los hijos de Aarón?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 128,
+    "question": "¿En qué ciudad fueron llamados Cristianos los discípulos primeramente?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 129,
+    "question": "¿Quién hizo flotar un hacha?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 130,
+    "question": "¿Quiénes murieron por ofrecer fuego extraño?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 131,
+    "question": "¿Qué significa Nabal?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 132,
+    "question": "¿Quién hizo un puñal de dos filos?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 133,
+    "question": "¿De qué tribu era Bernabé?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 134,
+    "question": "¿Cómo llamaron a Pablo cuando curó a un cojo de Listra?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 135,
+    "question": "",
+    "answer": "¿Cómo llamaron a Bernabé cuando Pablo curó a un cojo",
+    "reference": ""
+  },
+  {
+    "n": 136,
+    "question": "¿Qué profeta no era profeta?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 137,
+    "question": "",
+    "answer": "¿Cuál plaga no pudieron hacer los encantadores de",
+    "reference": ""
+  },
+  {
+    "n": 138,
+    "question": "¿Quiénes fueron los padres de Dina?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 139,
+    "question": "¿Quién fue el Papá de Josué?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 140,
+    "question": "¿Cuál era el nombre de Josué?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 141,
+    "question": "¿Quién fue el Papá de Caleb?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 142,
+    "question": "¿Cómo se llamaba el guarda de las concubinas en tiempos de Asuero?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 143,
+    "question": "¿Cómo se llamaba la capital del reino de Asuero?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 144,
+    "question": "¿Cómo se llamaba el papá de Saúl?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 145,
+    "question": "",
+    "answer": "¿Quién más multiplico alimentos para otros, así como",
+    "reference": ""
+  },
+  {
+    "n": 146,
+    "question": "¿Cuál profeta era sacerdote?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 147,
+    "question": "¿Qué hombre cruzo a pie el Jordán solo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 148,
+    "question": "¿Quiénes resistieron a Moisés?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 149,
+    "question": "¿Qué rey de Judá hizo maquinarias para la guerra?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 150,
+    "question": "¿Quién no pudo llorar la muerte de su esposa?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 151,
+    "question": "",
+    "answer": "¿Quién dio muerte a mil hombres con la quijada de un",
+    "reference": ""
+  },
+  {
+    "n": 152,
+    "question": "¿Quién escondió 200 siclos de plata, 50 siclos de oro y un manto Babilónico?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 153,
+    "question": "",
+    "answer": "¿Qué hombre en Israel era tan alabado por su hermosura,",
+    "reference": ""
+  },
+  {
+    "n": 154,
+    "question": "¿Quién contrató a un profeta para maldecir a Israel?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 155,
+    "question": "",
+    "answer": "¿Qué rey rasgó sus vestidos al escuchar la lectura de la",
+    "reference": ""
+  },
+  {
+    "n": 156,
+    "question": "¿quién fue arrojada de una ventana y los perros comieron su carne?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 157,
+    "question": "",
+    "answer": "¿Qué rey murió cuando una flecha lanzada a la ventura lo",
+    "reference": ""
+  },
+  {
+    "n": 158,
+    "question": "¿Qué hombre murió por no vender su viña?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 159,
+    "question": "",
+    "answer": "¿Quién propuso en su corazón no contaminarme con la",
+    "reference": ""
+  },
+  {
+    "n": 160,
+    "question": "¿Quién mató a 800 hombres armado de una lanza?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 161,
+    "question": "",
+    "answer": "¿Quién mató a 300 hombres con su lanza y fue cabeza de",
+    "reference": ""
+  },
+  {
+    "n": 162,
+    "question": "¿Quién mató a un león en mitad de un foso en tiempo de nieve?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 163,
+    "question": "",
+    "answer": "¿Qué valiente de David estuvo en batalla hasta que su",
+    "reference": ""
+  },
+  {
+    "n": 164,
+    "question": "¿Quién echó a los tres hijos de Anac de su tierra?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 165,
+    "question": "¿Cómo se llamaba la mamá de Joab?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 166,
+    "question": "¿Quién hizo una fiesta de 180 días para mostrar su riqueza?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 167,
+    "question": "",
+    "answer": "¿Qué rey fue castigado con lepra hasta el día de mi",
+    "reference": ""
+  },
+  {
+    "n": 168,
+    "question": "¿Qué rey pagano mandó a reedificar la casa de Dios?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 169,
+    "question": "¿Quién enfermó de los pies en el tiempo de su vejez?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 170,
+    "question": "¿A qué rey le sacaron los ojos y fue llevado con cadenas cautivo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 171,
+    "question": "¿A qué edad murió Eli?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 172,
+    "question": "¿Quién camino con Dios y fue llevado con Dios?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 173,
+    "question": "¿Qué profeta hizo descender fuego del cielo?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 174,
+    "question": "¿Quién recibió una doble porción del espíritu de su maestro?",
+    "answer": "",
+    "reference": ""
+  },
+  {
+    "n": 175,
+    "question": "",
+    "answer": "¿Quién profetizo que una espada traspasaría el corazón",
+    "reference": ""
+  }
+]

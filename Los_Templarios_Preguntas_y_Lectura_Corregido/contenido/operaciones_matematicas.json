@@ -1,0 +1,15 @@
+{
+  "nombre": "Operaciones matemáticas bíblicas",
+  "fuente": "cantidad de capítulos de los libros de la Biblia",
+  "operaciones": [
+    "suma",
+    "resta",
+    "multiplicación",
+    "división"
+  ],
+  "seleccion": "aleatoria",
+  "resta": "sin resultados negativos",
+  "division": "solo resultados enteros",
+  "xp_por_respuesta_correcta": 10,
+  "ejemplo": "Esdras (10) + Filemón (1) = 11"
+}
